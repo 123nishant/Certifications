@@ -1,3 +1,3 @@
-# Certifications
 
-Certifications completed till date !!
+
+Certifications acquired till date !!
