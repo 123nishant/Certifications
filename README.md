@@ -4,3 +4,4 @@
 2. Deep Learning Specialization in TensorFlow
 3. Natural Language Processing Specialization 
 4. Blockchain Specialization
+5. Secuty and Privacy Engineering for Big Data
